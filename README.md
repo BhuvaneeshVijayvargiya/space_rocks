@@ -1,4 +1,5 @@
-(To play the game, click on the zip
+(To play the game, you will need to first download the zip file and extract it.<br>
+ Then open the folder and start the game application)<br>
 
 # space_rocks
 It is an arcade game based-off classic asteroids game. <br>
